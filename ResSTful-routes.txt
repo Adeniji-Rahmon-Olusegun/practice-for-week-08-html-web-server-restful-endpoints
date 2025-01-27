@@ -1,0 +1,15 @@
+GET /
+POST /contact-form
+GET /posts
+GET /posts/:postId/edit
+POST /users
+POST /
+GET /
+GET /posts/:postId/comments
+GET /posts/:postId/create
+GET /posts/:postId/comments/edit
+POST /posts/:postId/likes
+POST /posts/:postId/likes/:likeId/delete
+GET /posts/:userId
+POST /posts
+
